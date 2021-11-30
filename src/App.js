@@ -4,7 +4,6 @@ import Footer from "./components/Footer/Footer";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import HomePage from "./components/HomePage/HomePage";
 import Categories from "./components/Categories/Categories";
-import RandomMeal from "./components/RandomMeal/RandomMeal";
 
 function App() {
   return (
